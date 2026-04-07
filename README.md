@@ -25,4 +25,7 @@ This project is an interactive Excel dashboard analyzing e-commerce sales data. 
 - Slicers
 
 ## 📷 Dashboard Preview
-![Dasboard](
+![Dasboard](dashboard-preview.png)
+
+## Download the excel file
+[Download the excel file](
