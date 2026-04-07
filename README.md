@@ -27,5 +27,5 @@ This project is an interactive Excel dashboard analyzing e-commerce sales data. 
 ## 📷 Dashboard Preview
 ![Dasboard](dashboard-preview.png)
 
-## Download the excel file
-[Download the excel file](
+[Download the excel file](https://github.com/Manishu02/E-commerce-Sales-Dashboard-Excel/blob/main/E-commerce-Sales-Dashboard.xlsx)
+
